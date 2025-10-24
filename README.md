@@ -18,7 +18,3 @@ Bu proje, [isboykot.com](https://isboykot.com/) sitesinin API'sini kullanıyor. 
 - API kullanımını öğrenmek için yaptığım bir demo proje
 - Veriler harici bir API'den geliyor
 - Eğitim amaçlı yapılmıştır
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-24 at 23 20 15" src="https://github.com/user-attachments/assets/d8953627-c0d1-4b36-98d9-a9ed226ff8c1" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-24 at 23 23 25" src="https://github.com/user-attachments/assets/dfc4711f-d70f-4958-a173-b22ce6cb8aca" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-24 at 23 19 58" src="https://github.com/user-attachments/assets/8bd8c2de-b18a-4986-8c40-021f46a6fe3b" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-24 at 23 18 19" src="https://github.com/user-attachments/assets/270b4941-e104-4eda-bbe1-a81d997dd3a1" />
